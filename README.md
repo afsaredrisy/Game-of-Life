@@ -65,5 +65,5 @@ Output D
 3, 3
  
 # Solution
-This Solution contains one cpp file  ```GameOfLifeSolution``` and one ```input1.txt``` file. To run this solution for a particular solution 
+This Solution contains one cpp file  ```GameOfLifeSolution``` and one ```input1.txt``` file. To run this solution for a particular input 
 change the ```input1.txt``` file accordingly output will print on console.
