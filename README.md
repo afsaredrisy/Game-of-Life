@@ -1,4 +1,4 @@
-# Game of Life
+## Game of Life
 
 The universe of the Game of Life is an infinite two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, live or dead. Every cell interacts with its eight neighbours, which are the cells that are directly horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
 
@@ -12,7 +12,6 @@ The initial pattern constitutes the 'seed' of the system. The first generation i
 # Problem:
 
 The inputs below represent the cells in the universe as X or - . X is a alive cell. - is a dead cell or no cell. The below inputs provide the provide pattern or initial cells in the universe . The output is the state of the system in the next tick (one run of the application of all the rules) , represented in the same format.
-------------------------------------------------------------------------------------------------------------------
 Input A:
 (Block pattern - Still life)
 1, 1
